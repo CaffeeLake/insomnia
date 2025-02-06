@@ -68,7 +68,7 @@
     "jsdom": "^25.0.1",
     "jshint": "^2.13.6",
     "jsonlint-mod-fixed": "1.7.7",
-    "jsonpath-plus": "^6.0.1",
+    "jsonpath-plus": "^10.2.0",
     "marked": "^5.1.1",
     "mime-types": "^2.1.35",
     "mocha": "^10.4.0",
@@ -174,7 +174,7 @@
     "tinykeys": "^2.1.0",
     "type-fest": "^4.15.0",
     "typescript": "^5.6.2",
-    "vite": "^5.2.8",
+    "vite": "^5.4.12",
     "vkbeautify": "^0.99.3",
     "ws": "^8.17.1",
     "xpath": "0.0.34"
