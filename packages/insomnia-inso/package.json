@@ -37,7 +37,7 @@
     "cross-env": "^7.0.3",
     "esbuild": "^0.24.0",
     "esbuild-runner": "^2.2.2",
-    "vitest": "^2.0.4"
+    "vitest": "^2.1.9"
   },
   "dependencies": {
     "@seald-io/nedb": "^4.0.4",
