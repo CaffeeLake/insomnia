@@ -37,7 +37,7 @@
     "@seald-io/nedb": "^4.1.1",
     "deep-equal": "2.2.3",
     "graphql": "^16.10.0",
-    "uuid": "^9.0.1"
+    "uuid": "^14.0.1"
   },
   "devDependencies": {
     "@getinsomnia/node-libcurl": "3.2.2",
